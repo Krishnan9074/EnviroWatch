@@ -1,0 +1,1 @@
+A IOT + ML project where the environment is sensed and data is collected ,ml models are used for predictive analytics using real time data .A whatsapp chatbot gives you real timedata.
